@@ -3,6 +3,15 @@
 
 ## Este repositorio encontrarán la información sobre el primer proyecto/entregable del Ucamp. Para mayor información pueden ingresar al siguiente link: https://github.com/U-Camp/BOOT-M1-SEM4-PROY1
 
-## En el primer commit, integré mi header a un 80%.
+#### En el primer commit, integré mi header a un 80%.
 
-## Para mi segundo commit, realicé la v1 del Jumbotron (Main1)
+#### Para mi segundo commit, realicé la v1 del Jumbotron (Main1)
+
+#### En el tercer commit: Se agregó la sección Main -> Servicios, donde se encuentran los servicios a ofrecer.
+#### También se modificó el logo.
+
+## Queda aún pendiente
+1. Media Queries Responsive Design
+2. Mejorar el Flexbox y Grid de la página
+3. Sección Main -> Blog
+4. Footer
