@@ -10,8 +10,8 @@
 #### En el tercer commit: Se agregó la sección Main -> Servicios, donde se encuentran los servicios a ofrecer.
 #### También se modificó el logo.
 
+#### Cuarto Commit: Maquetación y footer finalizados
 ## Queda aún pendiente
+
 1. Media Queries Responsive Design
 2. Mejorar el Flexbox y Grid de la página
-3. Sección Main -> Blog
-4. Footer
