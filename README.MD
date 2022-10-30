@@ -1,7 +1,7 @@
 # Proyecto1-Landing-Venta-DWFSC12
 
 
-## Este repositorio encontrarán la información sobre el primer proyecto/entregable del Ucamp. Para mayor información pueden ingresar al siguiente link: https://github.com/U-Camp/BOOT-M1-SEM4-PROY1
+### Este repositorio encontrarán la información sobre el primer proyecto/entregable del Ucamp. Para mayor información pueden ingresar al siguiente link: https://github.com/U-Camp/BOOT-M1-SEM4-PROY1
 
 #### En el primer commit, integré mi header a un 80%.
 
@@ -11,7 +11,7 @@
 #### También se modificó el logo.
 
 #### Cuarto Commit: Maquetación y footer finalizados
-## Queda aún pendiente
 
-1. Media Queries Responsive Design
-2. Mejorar el Flexbox y Grid de la página
+### Último Commit: Presentación de Proyecto v1
+
+[title](https://chardoniex.github.io/Proyecto1-Landing-Venta-DWFSC12/)
