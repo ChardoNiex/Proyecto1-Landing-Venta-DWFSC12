@@ -14,4 +14,4 @@
 
 ### Último Commit: Presentación de Proyecto v1
 
-[Página del Proyecto](https://chardoniex.github.io/Proyecto1-Landing-Venta-DWFSC12/)
+[Página del Proyecto](https://chardoniexarbit.netlify.app/)
